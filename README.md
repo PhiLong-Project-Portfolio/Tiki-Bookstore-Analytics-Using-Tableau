@@ -3,9 +3,9 @@
 ### Introduction
 Tiki is one of Vietnam's leading retail e-commerce platforms, renowned for offering a wide range of official products, coupled with a seamless and rapid shopping experience. With its vast inventory and extensive seller network, Tiki has established itself as a trusted destination for millions of customers.
 
+### About my project
 In this project, I focused on analyzing data from Tiki's bookstore segment. The data was collected directly from Tiki’s platform through a web scraping process using Python. The dataset includes detailed information on books information, categorization of books, seller performance, and customer ratings.
 
-### About my project
 After extracting the data, I utilized Microsoft Excel to clean and organize the raw dataset, eliminating inconsistencies and preparing it for analyzing. The cleaned data was then imported into Tableau, where I designed a series of visualizations to provide a comprehensive overview of Tiki's bookstore performance. These visualizations highlight key insights, such as inventory availability by category, the dominance of top sellers, and customer satisfaction metrics, offering a clear view of the platform's strengths and areas for improvement.
 
 The project includes two main sections:
