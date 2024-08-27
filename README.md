@@ -30,6 +30,6 @@ The project includes two main sections:
 - [Click here](https://public.tableau.com/app/profile/long.nguyen8522/viz/TikiBook_Dashboard/TIKIBOOKSTOREOVERVIEW)
 
 ### Conclusion
-Through this project, I aimed to deliver a data-driven understanding of Tiki’s bookstore operations. The project successfully demonstrated my ability to manage the entire data analytics process, from data extraction to visualization. It also showcased my capability to derive actionable insights from complex datasets, which is crucial for any data-driven decision-making process.
+Through this project, I aimed to deliver a data-driven understanding of Tiki’s bookstore operations. It also gave me a deeper understanding of the e-commerce landscape in Vietnam, particularly within the context of a leading platform like Tiki.
 
-However, one limitation of the project is that data may not capture the full of Tiki’s operations. Additionally, the analysis focused primarily on the bookstore segment, so the findings might not be fully generalizable to other product categories on Tiki.
+However, one limitation of the project is that this project may not capture the full of Tiki’s operations. Additionally, the analysis focused primarily on the bookstore segment, so the findings might not be fully generalizable to other product categories on Tiki.
