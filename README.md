@@ -11,9 +11,11 @@ After extracting the data, I utilized Microsoft Excel to clean and organize the 
 The project includes two main sections:
 
 - **Tiki Bookstore Overview:** provide overview information, such as the distribution of inventory by category, the market share of best-selling products, and customer review scores, giving a detailed perspective on the platform's effectiveness and areas that may need attention.
+
 ![TIKI BOOKSTORE OVERVIEW](https://github.com/user-attachments/assets/25b79df3-c867-45b3-a917-872949175898)
 
 - **Tiki Bookstore Table:** provide a comprehensive list of all books with necessary information such as name, author, category, price, rating and quantity sold. The section able to filter the list based on any of the available columns.
+
 ![TIKI BOOKSTORE TABLE](https://github.com/user-attachments/assets/f2a813d1-d032-4a6e-9b4b-cd617f41286e)
 
 ### Key Findings
