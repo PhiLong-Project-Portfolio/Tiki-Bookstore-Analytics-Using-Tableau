@@ -26,8 +26,8 @@ The project includes two main sections:
 - **Customer Satisfaction:** With over 98% of the books rated 4 stars and above, Tiki's bookstore enjoys high customer satisfaction. However, the concentration of ratings suggests an opportunity to diversify and enhance customer engagement across a broader range of products.
 
 ### Instruction
-- Download *Tiki Bookstore Tableau* file or see my project in my Tableau Public, the link is below
-[Click here](https://public.tableau.com/app/profile/long.nguyen8522/viz/TikiBook_Dashboard/TIKIBOOKSTOREOVERVIEW)
+- Download *Tiki Bookstore Tableau* file or see my project in my Tableau Public, the link is below.
+- [Click here](https://public.tableau.com/app/profile/long.nguyen8522/viz/TikiBook_Dashboard/TIKIBOOKSTOREOVERVIEW)
 
 ### Conclusion
 Through this project, I aimed to deliver a data-driven understanding of Tiki’s bookstore operations. The project successfully demonstrated my ability to manage the entire data analytics process, from data extraction to visualization. It also showcased my capability to derive actionable insights from complex datasets, which is crucial for any data-driven decision-making process.
