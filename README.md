@@ -23,8 +23,7 @@ The project includes two main sections:
 
 - **Seller Distribution:** The data indicated that a small percentage of sellers contribute the majority of sales, which could suggest the need for strategies to empower smaller sellers or optimize the performance of underrepresented categories.
 
-- **Customer Satisfaction:** With over 98% of the books rated 4 stars and above, Tiki's bookstore enjoys high customer satisfaction. However, the concentration of ratings suggests an opportunity to diversify and enhance customer engagement across a broader range of products.
-
+- **Customer Satisfaction:** With over 98% of the books rated 4 stars and above, only 0.28% of books are rated 2 stars or lower, and 0.88% of reviews are 1-star ratings. It indicates that customers are generally very satisfied with the books they purchase from Tiki Bookstore, which is a positive indicator of the store's product quality and customer service.
 ### Instruction
 - Download *Tiki Bookstore Tableau* file or see my project in my Tableau Public, the link is below.
 - [Click here](https://public.tableau.com/app/profile/long.nguyen8522/viz/TikiBook_Dashboard/TIKIBOOKSTOREOVERVIEW)
